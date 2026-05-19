@@ -1,0 +1,210 @@
+{
+  "u_mpccozr2_ncveu": [
+    {
+      "event_id": "ec183098-3b5f-40a4-b087-80e3778d41e0",
+      "user_id": "u_mpccozr2_ncveu",
+      "session_id": "b7cf6066-553a-4fdf-9ebb-7051c51599a2",
+      "type": "session",
+      "title": "Software Engineer Interview \u2014 Python",
+      "description": "Completed session. Score: 8.0/10. Weak areas: explanation of decorator return value, preserving original function metadata, larger software project considerations, decorator syntax, applying decorators with @ symbol, concrete example implementation, function wrapping, introspection, Edge cases in argument handling for decorators, advanced use cases for decorators, reflection, decorator syntax variations, Role of wrapper functions in preserving original functionality, Decorator structure and execution flow",
+      "topic": "Python",
+      "score": 8.0,
+      "timestamp": "2026-05-19T08:43:42.789385",
+      "metadata": {}
+    },
+    {
+      "event_id": "d574c55c-889b-4723-ba3b-ae77c558f12e",
+      "user_id": "u_mpccozr2_ncveu",
+      "session_id": "b7cf6066-553a-4fdf-9ebb-7051c51599a2",
+      "type": "weakness_detected",
+      "title": "Weakness Detected: explanation of decorator return value, preserving original function metadata",
+      "description": "AI flagged weak concepts in Python. These will be revisited in future sessions.",
+      "topic": "Python",
+      "score": 8.0,
+      "timestamp": "2026-05-19T08:43:42.789385",
+      "metadata": {}
+    },
+    {
+      "event_id": "4b6bb965-db1f-496c-aa5d-619648e339ea",
+      "user_id": "u_mpccozr2_ncveu",
+      "session_id": "recall",
+      "type": "recall",
+      "title": "Memory Recalled",
+      "description": "AI recalled 5 weakness(es): explanation of decorator return value, preserving original function metadata, larger software project considerations",
+      "topic": "Python",
+      "score": null,
+      "timestamp": "2026-05-19T08:49:08.863105",
+      "metadata": {}
+    },
+    {
+      "event_id": "57e38886-11d2-4e28-82d1-da2f64922cd4",
+      "user_id": "u_mpccozr2_ncveu",
+      "session_id": "recall",
+      "type": "recall",
+      "title": "Memory Recalled",
+      "description": "AI recalled 5 weakness(es): explanation of decorator return value, preserving original function metadata, larger software project considerations",
+      "topic": "Python",
+      "score": null,
+      "timestamp": "2026-05-19T08:49:24.280265",
+      "metadata": {}
+    }
+  ],
+  "bbb7a02b-7d2c-4969-924a-5269545bbe45": [
+    {
+      "event_id": "0acc33b0-2e41-4949-b168-e61387cc3e7e",
+      "user_id": "bbb7a02b-7d2c-4969-924a-5269545bbe45",
+      "session_id": "a8c7fd9f-dde1-4c4a-bc76-04d7f2c8b947",
+      "type": "session",
+      "title": "Software Engineer Interview \u2014 Python",
+      "description": "Completed session. Score: 6.4/10. Weak areas: thread scheduling, GIL implementation details, GIL's impact on thread scheduling, I/O operations and GIL, race conditions in reference counting, GIL release during I/O operations, Global Interpreter Lock (GIL) functionality, technical implications of the --disable-gil flag, performance limitations in CPU-bound threads, alternative Python implementation compatibility issues, GIL release mechanisms during I/O operations, thread safety trade-offs, C-extension library usage, Python threading and concurrency limitations, CPython memory management synchronization, multiprocessing module limitations, GIL implications, I/O-bound vs CPU-bound concurrency",
+      "topic": "Python",
+      "score": 6.4,
+      "timestamp": "2026-05-19T09:24:42.115985",
+      "metadata": {}
+    },
+    {
+      "event_id": "e5aab7ed-35ab-441b-8783-c3fb71043d76",
+      "user_id": "bbb7a02b-7d2c-4969-924a-5269545bbe45",
+      "session_id": "a8c7fd9f-dde1-4c4a-bc76-04d7f2c8b947",
+      "type": "weakness_detected",
+      "title": "Weakness Detected: thread scheduling, GIL implementation details",
+      "description": "AI flagged weak concepts in Python. These will be revisited in future sessions.",
+      "topic": "Python",
+      "score": 6.4,
+      "timestamp": "2026-05-19T09:24:42.115985",
+      "metadata": {}
+    },
+    {
+      "event_id": "c9136acd-1174-40e9-9814-583829f5d7b9",
+      "user_id": "bbb7a02b-7d2c-4969-924a-5269545bbe45",
+      "session_id": "efc62fc3-aa1f-4596-be03-2e0a58b6a48e",
+      "type": "session",
+      "title": "Data Scientist Interview \u2014 DBMS",
+      "description": "Completed session. Score: 8.2/10. Weak areas: providing concise examples, Overcomplication of 3NF violation scenarios (assuming non-standard functional dependencies), Third Normal Form (3NF) application, table restructuring, Ambiguity in explaining why Instructor requires a separate table (should clarify transitive dependency logic), elimination of repeating groups, unique row identification, Partial vs. transitive dependencies, Trade-off analysis between normalization approaches, avoiding unnecessary references, atomicity in column values, Transitive dependency identification (confusing CourseID\u2192Instructor with Instructor\u2192CourseName), Second Normal Form (2NF) application, Data modeling for specific use cases, Dependency classification in composite key scenarios, conciseness in explanations, example-based illustration",
+      "topic": "DBMS",
+      "score": 8.2,
+      "timestamp": "2026-05-19T09:28:23.741398",
+      "metadata": {}
+    },
+    {
+      "event_id": "590a569a-94b5-41bb-936b-b04d829a2f17",
+      "user_id": "bbb7a02b-7d2c-4969-924a-5269545bbe45",
+      "session_id": "efc62fc3-aa1f-4596-be03-2e0a58b6a48e",
+      "type": "weakness_detected",
+      "title": "Weakness Detected: providing concise examples, Overcomplication of 3NF violation scenarios (assuming non-standard functional dependencies)",
+      "description": "AI flagged weak concepts in DBMS. These will be revisited in future sessions.",
+      "topic": "DBMS",
+      "score": 8.2,
+      "timestamp": "2026-05-19T09:28:23.741398",
+      "metadata": {}
+    },
+    {
+      "event_id": "4f64c81d-eb6d-4ee5-86a5-c3e987299291",
+      "user_id": "bbb7a02b-7d2c-4969-924a-5269545bbe45",
+      "session_id": "recall",
+      "type": "recall",
+      "title": "Memory Recalled",
+      "description": "AI recalled 5 weakness(es): thread scheduling, GIL implementation details, GIL's impact on thread scheduling",
+      "topic": "Python",
+      "score": null,
+      "timestamp": "2026-05-19T09:43:24.267926",
+      "metadata": {}
+    },
+    {
+      "event_id": "5e76fed2-4764-44bd-a19e-f19b6c9602cd",
+      "user_id": "bbb7a02b-7d2c-4969-924a-5269545bbe45",
+      "session_id": "recall",
+      "type": "recall",
+      "title": "Memory Recalled",
+      "description": "AI recalled 5 weakness(es): thread scheduling, GIL implementation details, GIL's impact on thread scheduling",
+      "topic": "Python",
+      "score": null,
+      "timestamp": "2026-05-19T10:07:18.012806",
+      "metadata": {}
+    },
+    {
+      "event_id": "f1631c5d-0506-4713-9f27-e1dad4f9b260",
+      "user_id": "bbb7a02b-7d2c-4969-924a-5269545bbe45",
+      "session_id": "recall",
+      "type": "recall",
+      "title": "Memory Recalled",
+      "description": "AI recalled 5 weakness(es): thread scheduling, GIL implementation details, GIL's impact on thread scheduling",
+      "topic": "Python",
+      "score": null,
+      "timestamp": "2026-05-19T10:07:57.876686",
+      "metadata": {}
+    },
+    {
+      "event_id": "baa61693-4889-4207-80e0-c1ef6b2c7c40",
+      "user_id": "bbb7a02b-7d2c-4969-924a-5269545bbe45",
+      "session_id": "recall",
+      "type": "recall",
+      "title": "Memory Recalled",
+      "description": "AI recalled 5 weakness(es): thread scheduling, GIL implementation details, GIL's impact on thread scheduling",
+      "topic": "Python",
+      "score": null,
+      "timestamp": "2026-05-19T10:08:31.375304",
+      "metadata": {}
+    },
+    {
+      "event_id": "c4320635-ca7d-4552-ad76-53189d7c15f0",
+      "user_id": "bbb7a02b-7d2c-4969-924a-5269545bbe45",
+      "session_id": "recall",
+      "type": "recall",
+      "title": "Memory Recalled",
+      "description": "AI recalled 5 weakness(es): thread scheduling, GIL implementation details, GIL's impact on thread scheduling",
+      "topic": "Python",
+      "score": null,
+      "timestamp": "2026-05-19T10:09:08.407078",
+      "metadata": {}
+    },
+    {
+      "event_id": "a5faaf84-4c8a-4c01-a4c7-6a5fd8116442",
+      "user_id": "bbb7a02b-7d2c-4969-924a-5269545bbe45",
+      "session_id": "recall",
+      "type": "recall",
+      "title": "Memory Recalled",
+      "description": "AI recalled 5 weakness(es): thread scheduling, GIL implementation details, GIL's impact on thread scheduling",
+      "topic": "Python",
+      "score": null,
+      "timestamp": "2026-05-19T10:09:32.115846",
+      "metadata": {}
+    },
+    {
+      "event_id": "8db791ba-46e6-4049-8a9d-fec4e2d63d56",
+      "user_id": "bbb7a02b-7d2c-4969-924a-5269545bbe45",
+      "session_id": "recall",
+      "type": "recall",
+      "title": "Memory Recalled",
+      "description": "AI recalled 5 weakness(es): thread scheduling, GIL implementation details, GIL's impact on thread scheduling",
+      "topic": "Python",
+      "score": null,
+      "timestamp": "2026-05-19T10:10:11.063172",
+      "metadata": {}
+    },
+    {
+      "event_id": "8b3a69bb-f348-43c4-95e4-6ae90d8bd54d",
+      "user_id": "bbb7a02b-7d2c-4969-924a-5269545bbe45",
+      "session_id": "6b777f29-ece7-4a2d-9fe1-9fbf1b416406",
+      "type": "session",
+      "title": "Data Scientist Interview \u2014 Python",
+      "description": "Completed session. Score: 8.2/10. Weak areas: concise language, Python 3.14 free-threaded mode timeline, GIL utilization percentage exaggeration, Real-world example accuracy (ATM systems use two-phase commit rather than strict CP), code examples, avoiding redundant references, Implications of the GIL for parallel processing in data science, Current status of free-threaded Python adoption, Example function in multiprocessing isn't CPU-bound in Python, Workarounds for the GIL in CPU-bound tasks, Interview communication style (overly formatted response), Need to clarify when vectorized libraries release the GIL, Effective use of references and links in technical explanations, Citation formatting in verbal interviews, Cython GIL release mechanisms, applying GIL concepts to real-world scenarios, Scope management (PACELC extension not requested in question), Numba parallel decorator specifics",
+      "topic": "Python",
+      "score": 8.2,
+      "timestamp": "2026-05-19T10:10:19.813092",
+      "metadata": {}
+    },
+    {
+      "event_id": "19ee0879-0a21-4825-a007-66cf7b4c558e",
+      "user_id": "bbb7a02b-7d2c-4969-924a-5269545bbe45",
+      "session_id": "6b777f29-ece7-4a2d-9fe1-9fbf1b416406",
+      "type": "weakness_detected",
+      "title": "Weakness Detected: concise language, Python 3.14 free-threaded mode timeline",
+      "description": "AI flagged weak concepts in Python. These will be revisited in future sessions.",
+      "topic": "Python",
+      "score": 8.2,
+      "timestamp": "2026-05-19T10:10:19.813092",
+      "metadata": {}
+    }
+  ]
+}

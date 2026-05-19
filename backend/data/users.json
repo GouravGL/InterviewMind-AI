@@ -1,0 +1,38 @@
+{
+  "bbb7a02b-7d2c-4969-924a-5269545bbe45": {
+    "id": "bbb7a02b-7d2c-4969-924a-5269545bbe45",
+    "email": "gg@gmail.com",
+    "username": "ash",
+    "full_name": null,
+    "hashed_password": "$2b$12$lGNASsg6WIpkk4T.wPLY8uulMrpM18IEhOC93E3n4j6MAGY8NOJ16",
+    "role": "user",
+    "is_verified": false,
+    "created_at": "2026-05-19T09:15:14.017529",
+    "updated_at": "2026-05-19T09:15:14.017529",
+    "last_login": "2026-05-19T10:04:14.167686"
+  },
+  "44e50633-8db7-4fa1-a633-16edd58e5583": {
+    "id": "44e50633-8db7-4fa1-a633-16edd58e5583",
+    "email": "test@test.com",
+    "username": "testuser",
+    "full_name": null,
+    "hashed_password": "$2b$12$tDcb5jbkO08byxTu.8ZnyO9VAY8r8alV89CxF1KSBttIlZn3MjHfG",
+    "role": "user",
+    "is_verified": false,
+    "created_at": "2026-05-19T09:17:31.092371",
+    "updated_at": "2026-05-19T09:17:31.092371",
+    "last_login": null
+  },
+  "3a91feaa-d4d3-4fe8-a21f-100b7744bd4f": {
+    "id": "3a91feaa-d4d3-4fe8-a21f-100b7744bd4f",
+    "email": "test_user_77@example.com",
+    "username": "test_user_77",
+    "full_name": null,
+    "hashed_password": "$2b$12$OYyJfyIMftg2WGKEXbYHau2wirX/86rGm4Zp4Okfa1MLzyEPBI57u",
+    "role": "user",
+    "is_verified": false,
+    "created_at": "2026-05-19T09:49:10.075027",
+    "updated_at": "2026-05-19T09:49:10.075027",
+    "last_login": "2026-05-19T09:52:21.366032"
+  }
+}

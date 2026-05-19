@@ -1,0 +1,40 @@
+{
+  "sessions": {
+    "u_mpccozr2_ncveu": [
+      {
+        "session_id": "b7cf6066-553a-4fdf-9ebb-7051c51599a2",
+        "topic": "Python",
+        "score": 8.0,
+        "role": "Software Engineer",
+        "difficulty": "Easy",
+        "timestamp": "2026-05-19T08:43:42.789385"
+      }
+    ],
+    "bbb7a02b-7d2c-4969-924a-5269545bbe45": [
+      {
+        "session_id": "a8c7fd9f-dde1-4c4a-bc76-04d7f2c8b947",
+        "topic": "Python",
+        "score": 6.4,
+        "role": "Software Engineer",
+        "difficulty": "Easy",
+        "timestamp": "2026-05-19T09:24:42.115985"
+      },
+      {
+        "session_id": "efc62fc3-aa1f-4596-be03-2e0a58b6a48e",
+        "topic": "DBMS",
+        "score": 8.2,
+        "role": "Data Scientist",
+        "difficulty": "Easy",
+        "timestamp": "2026-05-19T09:28:23.741398"
+      },
+      {
+        "session_id": "6b777f29-ece7-4a2d-9fe1-9fbf1b416406",
+        "topic": "Python",
+        "score": 8.2,
+        "role": "Data Scientist",
+        "difficulty": "Easy",
+        "timestamp": "2026-05-19T10:10:19.813092"
+      }
+    ]
+  }
+}
