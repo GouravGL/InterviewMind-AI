@@ -239,6 +239,16 @@ NEXT_PUBLIC_API_URL=http://localhost:8000
 
 ## Deployment
 
+### ⚡ 1-Click Cloud Deployment
+
+You can deploy the entire application to the cloud with a single click using these integrated buttons:
+
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https%3A%2F%2Fgithub.com%2FGouravGL%2FInterviewMind-AI&root-directory=frontend)
+&nbsp;&nbsp;&nbsp;&nbsp;
+[![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy?repo=https://github.com/GouravGL/InterviewMind-AI)
+
+---
+
 ### Backend → Render
 
 1. Create a new Web Service on [render.com](https://render.com)
