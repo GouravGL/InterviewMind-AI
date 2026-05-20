@@ -1,0 +1,14 @@
+services:
+  - type: web
+    name: interviewmind-backend
+    runtime: python
+    repo: https://github.com/GouravGL/InterviewMind-AI
+    branch: main
+    rootDir: backend
+    buildCommand: pip install -r requirements.txt
+    startCommand: uvicorn main:app --host 0.0.0.0 --port $PORT
+    envVars:
+      - key: GROQ_API_KEY
+        sync: true
+      - key: JWT_SECRET_KEY
+        value: 09d25e094faa6ca2556c818166b7a9563b93f7099f6f0f4caa6cf63b88e8d3e7
