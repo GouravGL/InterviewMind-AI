@@ -2,12 +2,22 @@ services:
   - type: web
     name: interviewmind-backend
     runtime: python
-    repo: https://github.com/GouravGL/InterviewMind-AI
     branch: main
     rootDir: backend
     buildCommand: pip install -r requirements.txt
     startCommand: uvicorn main:app --host 0.0.0.0 --port $PORT
     envVars:
       - key: GROQ_API_KEY
+        sync: false
       - key: JWT_SECRET_KEY
-              value: 09d25e094faa6ca2556c818166b7a9563b93f7099f6f0f4caa6cf63b88e8d3e7
+        value: 09d25e094faa6ca2556c818166b7a9563b93f7099f6f0f4caa6cf63b88e8d3e7
+      - key: FAST_MODEL
+        value: qwen/qwen3-32b
+      - key: STRONG_MODEL
+        value: llama-3.3-70b-versatile
+      - key: MAX_TOKENS_PER_SESSION
+        value: "6000"
+      - key: COST_PER_TOKEN_FAST
+        value: "0.000001"
+      - key: COST_PER_TOKEN_STRONG
+        value: "0.000003"
